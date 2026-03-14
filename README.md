@@ -517,3 +517,12 @@ as an academic project from University of Tsukuba, under the Apache License 2.0.
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [Contribution Guidelines](https://github.com/wmariuss/awesome-devops/blob/main/docs/contribution.md).
+
+## Personal Learning Notes
+
+Key DevOps concepts that are critical for scalable systems:
+
+- Infrastructure as Code (IaC)
+- Continuous Integration and Continuous Deployment
+- Monitoring and Observability
+- Container orchestration with Kubernetes
